@@ -5,4 +5,4 @@ functions like add, subtract, multiply, divide, and modulo all work properly. th
 
 To view the process of the lexical analyzer and the symbol table, prompts are given to the user. The lexical analyzer outputs all read lexemes, their value, and their classification. The Symbol table is where a user can view if arithmetic has been performed properly. You can see the address location and value of that particular symbol. For example, if you assign A := 3 + 5, then on the symbol table, there will be a line that reads “Variable - A: 8, @ address: (some address)”. 
 
-Included in the submission directory is a test input “program.txt” to show how the input is formatted to properly be read and computed, and to give examples about how the numbs arithmetic operations are functional. 
+Included in the repository is a test input “program.txt” to show how the input is formatted to properly be read and computed, and to give examples about how the numbs arithmetic operations are functional. 
