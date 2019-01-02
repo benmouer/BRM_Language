@@ -1,0 +1,15 @@
+const A = 5, B = 8, C = 14;
+var G, F, AOL, Google, Result;
+begin
+
+
+G := 12 / 4 + 2;
+F := A + B;
+AOL := 9;
+Google := 3;
+Result := AOL * Google;
+A := 9
+
+
+
+end.
